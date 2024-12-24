@@ -1,6 +1,6 @@
-1.inside path ./iTNotes run command :- npm init
+1.inside path ./iTNotes run command :- npm install
 
-2.again inside path ./iTNotes/frontend run command :- npm init
+2.again inside path ./iTNotes/frontend run command :- npm install
 
     these above two commands will create two node_modules folder one inside root directory and one inside frontend folder
 		
